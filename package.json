@@ -14,5 +14,8 @@
     "husky": "^8.0.0",
     "jest": "^30.0.5",
     "supertest": "^7.1.4"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
