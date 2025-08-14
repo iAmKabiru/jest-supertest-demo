@@ -1,0 +1,18 @@
+{
+  "name": "jest-supertest-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
+  }
+}
